@@ -1,5 +1,5 @@
 <template>
-  <base-container title="Vuex">
+  <base-container title="Vuexxx">
     <the-counter></the-counter>
     <favorite-value></favorite-value>
     <button @click="addOne">Add 10</button>
